@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  mecab:
+    build: ./
+    tty: true
